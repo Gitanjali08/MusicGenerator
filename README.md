@@ -18,6 +18,7 @@ This project utilizes deep learning techniques to generate music. By training a 
 - Unlike traditional RNNs or LSTMs, WaveNet uses dilated causal convolutions, allowing the model to efficiently handle long-range dependencies in the input data.
 - This architecture makes WaveNet particularly suitable for audio and speech synthesis, achieving state-of-the-art results in natural-sounding audio generation.
 
+Usage:
 
 Clone the Repository:
 
@@ -26,8 +27,8 @@ Clone the Repository:
 
 ```cd music-generator```
 
-Usage
-Running the Jupyter Notebook
 Start Jupyter Notebook:
+
 ```jupyter notebook```
+
 Open musicGenerator.ipynb and run the cells to train the model and generate music.
