@@ -19,7 +19,8 @@ This project utilizes deep learning techniques to generate music. By training a 
 - This architecture makes WaveNet particularly suitable for audio and speech synthesis, achieving state-of-the-art results in natural-sounding audio generation.
 
 
-Clone the Repository
+Clone the Repository:
+
 ```git clone https://github.com/your-username/music-generator.git ```
 
 
