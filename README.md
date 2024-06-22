@@ -21,6 +21,8 @@ This project utilizes deep learning techniques to generate music. By training a 
 
 Clone the Repository
 ```git clone https://github.com/your-username/music-generator.git ```
+
+
 ```cd music-generator```
 
 Usage
